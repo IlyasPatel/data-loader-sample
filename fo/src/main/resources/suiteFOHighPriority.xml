@@ -1,0 +1,9 @@
+<suites>
+    <suite name="suite1">
+        <dataSets>
+        </dataSets>
+        <stories name="stories">
+            <story include="1" no="3" scenario="Auth" name="UserLogin.story" datasets="JobData.groovy" data="JobData.groovy" preLoadData="true" />
+        </stories>
+    </suite>
+</suites>
